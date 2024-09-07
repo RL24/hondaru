@@ -1,0 +1,17 @@
+@import '../../colors.scss';
+
+.change {
+  background: $background-dark;
+
+  min-height: 80px;
+
+  display: flex;
+
+  .content {
+    flex: 1 1 auto;
+    
+    background: $background-light;
+
+    border-top-right-radius: 80px;
+  }
+}
