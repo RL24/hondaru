@@ -10,6 +10,7 @@ final List<Feature> features = [
       '1000cc Bosch injectors',
       'Aftermarket FPR',
       'BorgWarner S300SX turbo',
+      'TiAL 38mm external wastegate',
       'Custom low profile valve cover',
       'Custom 1.5" steamtube exhaust manifold',
       'Custom 3" stainless exhaust',

@@ -61981,9 +61981,9 @@ Z(a){var s=null
 $.a9i()
 return new A.tB(new A.AS(new A.Z5(new A.Qu(),4,!0,!0,!0,s),B.fE,B.b7,!1,s,s,B.vN,!1,s,4,B.bM,B.Ff,s,B.aV,s),s)}}
 A.Qu.prototype={
-$2(a,b){var s=null,r=$.a9i()[b],q=A.a66(24),p=A.av(B.c.ar(229.5),255,255,255),o=A.a66(16),n=A.b([A.acE(r.a,B.IN,B.de)],t.af),m=r.b
+$2(a,b){var s=null,r=$.a9i()[b],q=A.a66(12),p=A.av(B.c.ar(229.5),255,255,255),o=A.a66(8),n=A.b([A.acE(r.a,B.IN,B.de)],t.af),m=r.b
 B.b.H(n,new A.ag(m,new A.Qt(),A.X(m).h("ag<1,k>")))
-return new A.hU(B.fE,A.a6j(s,A.a6j(s,A.amS(n,B.yD,16),s,new A.fB(p,s,s,o,s,s,B.bH),s,s,B.zb,s),s,new A.fB(s,new A.ms(new A.pp(r.c),B.w9),s,q,s,s,B.bH),s,s,B.fE,s),s)},
+return new A.hU(B.fE,A.a6j(s,A.a6j(s,A.amS(n,B.yD,8),s,new A.fB(p,s,s,o,s,s,B.bH),s,s,B.zb,s),s,new A.fB(s,new A.ms(new A.pp(r.c),B.w9),s,q,s,s,B.bH),s,s,B.fE,s),s)},
 $S:358}
 A.Qt.prototype={
 $1(a){return A.acE(a,null,B.de)},
@@ -65099,8 +65099,8 @@ B.jM=new A.aG(75e3)
 B.z9=new A.aG(-38e3)
 B.bN=new A.bz(0,0,0,0)
 B.za=new A.bz(16,0,16,0)
-B.fE=new A.bz(16,16,16,16)
-B.zb=new A.bz(8,24,8,24)
+B.zb=new A.bz(4,12,4,12)
+B.fE=new A.bz(8,8,8,8)
 B.zc=new A.qe(null)
 B.zd=new A.qh(0,"noOpinion")
 B.ze=new A.qh(1,"enabled")
@@ -67598,7 +67598,7 @@ s($,"avP","ahx",()=>A.RV(A.bu([B.h7],t.q)))
 s($,"auZ","ah1",()=>A.RV(A.bu([B.h8],t.q)))
 s($,"avH","ahu",()=>A.RV(A.bu([B.h9],t.q)))
 s($,"awh","a9i",()=>{var q=t.s
-return A.b([A.P6("Engine",A.b(["Honda K24 - Stock internals","Custom engine mounts","20mm subframe spacers1000cc Bosch injectors","Aftermarket FPR","BorgWarner S300SX turbo","Custom low profile valve cover",'Custom 1.5" steamtube exhaust manifold','Custom 3" stainless exhaust',"Custom catchcan","Modified Toyota MR2 radiator - dual pass"],q),"assets/images/engine.png"),A.P6("Drivetrain",A.b(["Genuine Rota RTF-5 wheels","5-speed manual Subaru gearbox","Custom front axle outer CV joints","AWD with a 4.44 ratio center LSD","Rear 4.44 LSD"],q),"assets/images/drivetrain.png"),A.P6("Interior",A.b(["Android Headunit - MDash Gauges","1kg twin strap fire extinguisher"],q),"assets/images/interior.png"),A.P6("Engine Management",A.b(["MaxxECU Sport","Custom engine harness","CanBUS integration"],q),"assets/images/engine-management.png")],A.a2("u<zR>"))})
+return A.b([A.P6("Engine",A.b(["Honda K24 - Stock internals","Custom engine mounts","20mm subframe spacers","1000cc Bosch injectors","Aftermarket FPR","BorgWarner S300SX turbo","TiAL 38mm external wastegate","Custom low profile valve cover",'Custom 1.5" steamtube exhaust manifold','Custom 3" stainless exhaust',"Custom catchcan","Modified Toyota MR2 radiator - dual pass"],q),"assets/images/engine.png"),A.P6("Drivetrain",A.b(["Genuine Rota RTF-5 wheels","5-speed manual Subaru gearbox","Custom front axle outer CV joints","AWD with a 4.44 ratio center LSD","Rear 4.44 LSD"],q),"assets/images/drivetrain.png"),A.P6("Interior",A.b(["Android Headunit - MDash Gauges","1kg twin strap fire extinguisher"],q),"assets/images/interior.png"),A.P6("Engine Management",A.b(["MaxxECU Sport","Custom engine harness","CanBUS integration"],q),"assets/images/engine-management.png")],A.a2("u<zR>"))})
 r($,"asS","a9_",()=>{var q=null
 return A.aO(q,q,!0,"background",new A.S4(),q,new A.S5(),q)})
 r($,"asY","afJ",()=>A.aO(new A.Sm(),A.bi(3,3,4.5,7),!1,"on_background",new A.Sn(),null,new A.So(),null))
