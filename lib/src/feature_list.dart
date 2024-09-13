@@ -24,9 +24,12 @@ final List<Feature> features = [
     [
       'Genuine Rota RTF-5 wheels',
       '5-speed manual Subaru gearbox',
+      'Custom adapter plate',
+      'Custom K-series flywheel',
       'Custom front axle outer CV joints',
       'AWD with a 4.44 ratio center LSD',
       'Rear 4.44 LSD',
+      'Blitz Damper ZZ-R adjustable coilovers',
     ],
     'assets/images/drivetrain.png',
   ),
